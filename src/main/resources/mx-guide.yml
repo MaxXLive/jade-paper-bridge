@@ -2,7 +2,7 @@ mxguide:
   enabled: true
   id: jadepaperbridge
   name: JadePaperBridge
-  description: Erweiterte Block-Infos für Jade-Mod-Nutzer
+  description: "Extended block and entity info for Jade mod users"
   priority: 60
   silent: false
   message:
