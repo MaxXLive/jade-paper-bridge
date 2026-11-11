@@ -92,6 +92,7 @@ public final class JadePaperBridge extends JavaPlugin implements Listener {
 				entityProviders.ids().size(),
 				JadeNetworkHandler.PROTOCOL_VERSION));
 		saveResource("mx-guide.yml", false);
+		saveResource("mx-guide_de_DE.yml", false);
 	}
 
 	@Override

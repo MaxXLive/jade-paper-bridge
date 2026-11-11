@@ -1,0 +1,11 @@
+mxguide:
+  enabled: true
+  id: jadepaperbridge
+  name: JadePaperBridge
+  description: Erweiterte Block-Infos für Jade-Mod-Nutzer
+  priority: 60
+  silent: false
+  message:
+    - "Mit dem Jade Client-Mod werden erweiterte Block- und Entity-Infos angezeigt."
+    - "Inventare, Bienenstöcke, Brauständer, Villager-Trade-Cooldowns und mehr."
+    - "Kein Setup nötig — installier Jade auf deinem Client und joint einfach."
