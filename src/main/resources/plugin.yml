@@ -4,7 +4,6 @@ main: com.maxxlive.jadepaperbridge.JadePaperBridge
 api-version: '${minecraftVersion}'
 description: Server-side counterpart of the Jade mod for Paper servers
 authors: [MaxXLive]
-softdepend: [MXGuide]
 commands:
   jadepaperbridge:
     description: Manage JadePaperBridge
