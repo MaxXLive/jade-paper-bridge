@@ -6,6 +6,8 @@ mxguide:
   priority: 60
   silent: false
   message:
-    - "Mit dem Jade Client-Mod werden erweiterte Block- und Entity-Infos angezeigt."
-    - "Inventare, Bienenstöcke, Brauständer, Villager-Trade-Cooldowns und mehr."
-    - "Kein Setup nötig — installier Jade auf deinem Client und joint einfach."
+    - "Mit dem Jade Client-Mod werden detaillierte Overlay-Infos auf Blöcken und Entities angezeigt."
+    - "Dieser Server liefert: Truhen-/Barrel-Inventare, Ofen- und Braustand-Fortschritt,"
+    - "Bienenstock-Status, Villager-Trade-Cooldowns, Mob-Health und mehr."
+    - "Aktivieren: Jades Config-Screen öffnen (Standard: Taste H) → Plugin Settings"
+    - "und die gewünschten Provider aktivieren (z.B. Storage, Brewing Stand, Beehive)."

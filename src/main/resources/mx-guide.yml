@@ -2,10 +2,12 @@ mxguide:
   enabled: true
   id: jadepaperbridge
   name: JadePaperBridge
-  description: "Extended block and entity info for Jade mod users"
+  description: Extended block and entity info for Jade mod users
   priority: 60
   silent: false
   message:
-    - "If you use the Jade client mod, this server provides extended block and entity information."
-    - "Inventories, beehives, brewing stands, villager trade cooldowns and more are shown."
-    - "No setup needed — install Jade on your client and join."
+    - "Install the Jade client mod to see detailed overlay info on blocks and entities."
+    - "This server adds: chest/barrel inventories, furnace and brewing stand progress,"
+    - "beehive status, villager trade cooldowns, mob health and more."
+    - "To activate: open Jade's config screen (default key: H) → Plugin Settings"
+    - "and enable the providers you want (e.g. Storage, Brewing Stand, Beehive)."
